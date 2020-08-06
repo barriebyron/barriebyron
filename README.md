@@ -32,6 +32,10 @@ My specialty is presenting complex ideas in ways that are clear and concise. My 
 
 :sunrise:  Watch birds and sunrises.
 
+### Where I've worked 
+
+Head on over to my profile on [LinkedIn](https://www.linkedin.com/in/barriebyron/) to learn more about me and my professional experience. 
+
 ### Where I live 
 
 A remote worker since 2008, I work in my home office in southeast Florida. 
