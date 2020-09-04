@@ -12,11 +12,11 @@ My specialty is presenting complex ideas in ways that are clear and concise. My 
 
 :label:  Use well-defined GitHub and JIRA issues to collaborate, plan, track, and trigger documentation tasks.
 
-:sparkle:  Always strive to improve products and processes.
+:sparkle:  Always strive to improve products and processes. Share widely, like this handy collection of online [technical writing style guides](https://docs.google.com/document/d/1wAVt65UpgBJ4e_tzPCVnPHwOqYYtENuRkojDSq-7nK0/edit?usp=sharing).
 
 :wave:  Use Slack to keep in touch and build relationships with colleagues near and far.
 
-:pushpin:  Manage knowledge, idea sharing, and collaborating on Confluence.
+:pushpin:  Manage knowledge, collaborate for the greater good, and share ideas.  
 
 :earth_americas:  Work with smart people who innovate, collaborate, and celebrate.
 
@@ -24,7 +24,7 @@ My specialty is presenting complex ideas in ways that are clear and concise. My 
 
 :high_brightness:  Attract amazing people into my life who inspire me to be a better person.
 
-:bulb:  Learn something new every day.
+:bulb:  Learn something new every day. 
 
 :tomato:  Grow and cook healthy food. I love my Instant Pot. I don't play favorites, I love both of my Instant Pots. 
 
@@ -34,7 +34,7 @@ My specialty is presenting complex ideas in ways that are clear and concise. My 
 
 ### Where I've worked 
 
-Head on over to my profile on [LinkedIn](https://www.linkedin.com/in/barriebyron/) to learn more about me and my professional experience. 
+My professional work experience is on [LinkedIn](https://www.linkedin.com/in/barriebyron/). 
 
 ### Where I live 
 
