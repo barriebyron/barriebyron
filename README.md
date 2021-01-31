@@ -8,13 +8,13 @@ My specialty is presenting complex ideas in ways that are clear and concise. My 
 
 :keyboard:  Joyously craft and maintain structured, user-focused technical content to enable users to achieve their goals.
 
-:hammer_and_pick:  Work in various content source formats, including DITA (XML) and Markdown, to develop structured content that answers and solves business problems.
+:hammer_and_pick:  Work in various content source formats, including DITA (XML) and Markdown, to develop structured content that answers questions and solves business problems.
 
-:label:  Use well-defined GitHub and JIRA issues to collaborate, plan, track, and trigger documentation tasks.
+:label:  Use well-defined GitHub and Jira issues to collaborate, plan, track, and trigger documentation tasks.
 
 :sparkle:  Always strive to improve products and processes. Share widely, like this handy collection of online [technical writing style guides](https://docs.google.com/document/d/1wAVt65UpgBJ4e_tzPCVnPHwOqYYtENuRkojDSq-7nK0/edit?usp=sharing).
 
-:wave:  Use Slack to keep in touch and build relationships with colleagues near and far.
+:wave:  Use Slack to keep in touch and build relationships with colleagues and documentarians near and far.
 
 :pushpin:  Manage knowledge, collaborate for the greater good, and share ideas.  
 
@@ -38,7 +38,7 @@ My professional work experience is on [LinkedIn](https://www.linkedin.com/in/bar
 
 ### Where I live 
 
-A remote worker since 2008, I work in my home office in southeast Florida. 
+A remote worker since 2007, I work in my home office in southeast Florida. 
 
 ### My favorite quote 
 
