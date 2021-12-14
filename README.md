@@ -6,11 +6,13 @@ My specialty is presenting complex ideas in ways that are clear and concise. My 
 
 ### What I do
 
+:chain: Create content to attract and onboard new blockchain developers.
+
 :keyboard:  Joyously craft and maintain structured, user-focused technical content to enable users to achieve their goals.
 
-:hammer_and_pick:  Work in various content source formats, including DITA (XML) and Markdown, to develop structured content that answers questions and solves business problems.
+:hammer_and_pick:  Work in various content source formats to develop structured content that answers questions and solves business problems.
 
-:label:  Use well-defined GitHub and Jira issues to collaborate, plan, track, and trigger documentation tasks.
+:label:  Use well-defined GitHub and Jira issues to collaborate, plan, track, and trigger documentation and content strategy tasks.
 
 :sparkle:  Always strive to improve products and processes. Share widely, like this handy collection of online [technical writing style guides](https://docs.google.com/document/d/1wAVt65UpgBJ4e_tzPCVnPHwOqYYtENuRkojDSq-7nK0/edit?usp=sharing).
 
