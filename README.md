@@ -6,7 +6,7 @@ My specialty is presenting complex ideas in ways that are clear and concise. My 
 
 ### What I do
 
-:chain: Create content to attract and onboard new blockchain developers.
+⛓️ Create content to attract and onboard new blockchain developers.
 
 :keyboard:  Joyously craft and maintain structured, user-focused technical content to enable users to achieve their goals.
 
