@@ -16,11 +16,11 @@ My specialty is presenting complex ideas in ways that are clear and concise. My 
 
 :sparkle:  Always strive to improve products and processes. Share widely, like this handy collection of online [technical writing style guides](https://docs.google.com/document/d/1wAVt65UpgBJ4e_tzPCVnPHwOqYYtENuRkojDSq-7nK0/edit?usp=sharing).
 
-:wave:  Use Slack to keep in touch and build relationships with colleagues and documentarians near and far.
+:wave:  Use Slack and Discord to keep in touch and build relationships with colleagues, community members, and documentarians near and far.
 
 :pushpin:  Manage knowledge, collaborate for the greater good, and share ideas.  
 
-:earth_americas:  Work with smart people who innovate, collaborate, and celebrate.
+:earth_americas:  Work with smart people around the globe who innovate, collaborate, and celebrate.
 
 ### What else I do
 
@@ -36,7 +36,7 @@ My specialty is presenting complex ideas in ways that are clear and concise. My 
 
 ### Where I've worked 
 
-My professional work experience is on [LinkedIn](https://www.linkedin.com/in/barriebyron/). 
+My professional work experience is on [LinkedIn](https://www.linkedin.com/in/barriebyron/). Who can I introduce you to?
 
 ### Where I live 
 
