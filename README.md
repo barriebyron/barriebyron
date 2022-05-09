@@ -12,7 +12,7 @@ My specialty is presenting complex ideas in ways that are clear and concise. My 
 
 :hammer_and_pick:  Work in various content source formats to develop structured content that answers questions and solves business problems.
 
-:label:  Use well-defined GitHub and Jira issues to collaborate, plan, track, and trigger documentation and content strategy tasks.
+:label:  Use well-defined GitHub issues and discussions to collaborate, plan, track, and trigger documentation and content strategy tasks.
 
 :sparkle:  Always strive to improve products and processes. Share widely, like this handy collection of online [technical writing style guides](https://docs.google.com/document/d/1wAVt65UpgBJ4e_tzPCVnPHwOqYYtENuRkojDSq-7nK0/edit?usp=sharing).
 
@@ -20,7 +20,7 @@ My specialty is presenting complex ideas in ways that are clear and concise. My 
 
 :pushpin:  Manage knowledge, collaborate for the greater good, and share ideas.  
 
-:earth_americas:  Work with smart people around the globe who innovate, collaborate, and celebrate.
+:earth_americas:  Work with brilliant and amazing people around the globe who innovate, collaborate, and celebrate.
 
 ### What else I do
 
