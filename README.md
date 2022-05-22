@@ -1,16 +1,16 @@
-### Aloha, I'm glad you're here 
+### Who I am 
 
 I'm a silver-lining specialist with more than 20 years of experience in planning, designing, developing, delivering, and maintaining information products for a variety of audiences and purposes. 
 
-My specialty is presenting complex ideas in ways that are clear and concise. My superpower is asking the right questions. 
+My specialty is presenting complex ideas in ways that are clear and concise. My superpowers include asking the right questions and introducing you to people you want to know. 
 
 ### What I do
 
-⛓️ Create content to attract and onboard new blockchain developers.
+⛓️ Create content to attract and onboard developers.
 
-:keyboard:  Joyously craft and maintain structured, user-focused technical content to enable users to achieve their goals.
+:keyboard:  Joyously craft and maintain structured, user-focused technical content that enables users to achieve their goals.
 
-:hammer_and_pick:  Work in various content source formats to develop structured content that answers questions and solves business problems.
+:hammer_and_pick:  Work in various content source formats to develop a wide variety of content that answers questions and solves business problems.
 
 :label:  Use well-defined GitHub issues and discussions to collaborate, plan, track, and trigger documentation and content strategy tasks.
 
@@ -40,7 +40,7 @@ My professional work experience is on [LinkedIn](https://www.linkedin.com/in/bar
 
 ### Where I live 
 
-A remote worker since 2007, I work in my home office in southeast Florida. 
+A remote worker since 2007, I mostly work from my home office in southeast Florida. 
 
 ### My favorite quote 
 
