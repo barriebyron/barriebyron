@@ -1,3 +1,9 @@
+### Where to find me
+
+<a href=“https://www.linkedin.com/in/barriebyron/”><img src=“https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg” title=“LinkedIn” alt=“LinkedIn Account” width=“40"/></a>&ensp;<a href=“https://twitter.com/barriebyron”><img src=“https://cdn.worldvectorlogo.com/logos/twitter-6.svg” title=“Twitter” alt=“Twitter” width=“40”/></a>&ensp;<a href=“https://www.linktr.ee/barriebyron/”><img src=“https://logodownload.org/linktree-logo/linktree-logo/)” title=“More about me” alt=“My Linktree” width=“40"/></a>
+
+[![Gmail Badge](https://img.shields.io/badge/-barriebyron@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:barriebyron@gmail.com)](mailto:barriebyron@gmail.com)
+
 ### Who I am 
 
 I'm a silver-lining specialist with more than 20 years of experience in planning, designing, developing, delivering, and maintaining information products for a variety of audiences and purposes. 
@@ -6,7 +12,7 @@ My specialty is presenting complex ideas in ways that are clear and concise. My 
 
 ### What I do
 
-⛓️ Create content to attract and onboard developers.
+⛓️ Create content to attract, onboard, and solve problems for developers.
 
 :keyboard:  Joyously craft and maintain structured, user-focused technical content that enables users to achieve their goals.
 
