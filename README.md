@@ -2,11 +2,11 @@
 
 I'm a silver-lining specialist with more than 20 years of experience in planning, designing, developing, delivering, and maintaining information products for a variety of audiences and purposes. 
 
-My specialty is presenting complex ideas in ways that are clear and concise. My superpowers include asking the right questions and introducing you to people you want to know. 
+My specialty is presenting complex ideas in ways that are clear and concise. My superpowers include asking the right questions, landing awesome jobs at terrific companies, and introducing you to people you want to know. 
 
 ### What I do
 
-⛓️ Create content to attract and onboard developers.
+⛓️ Create content to attract and onboard product and blockchain developers.
 
 :keyboard:  Joyously craft and maintain structured, user-focused technical content that enables users to achieve their goals.
 
@@ -16,7 +16,7 @@ My specialty is presenting complex ideas in ways that are clear and concise. My 
 
 :sparkle:  Always strive to improve products and processes. Share widely, like this handy collection of online [technical writing style guides](https://docs.google.com/document/d/1wAVt65UpgBJ4e_tzPCVnPHwOqYYtENuRkojDSq-7nK0/edit?usp=sharing).
 
-:wave:  Use Slack and Discord to keep in touch and build relationships with colleagues, community members, and documentarians near and far.
+:wave:  Use Slack, Telegram, LinkedIn, Twitter, Discord, and just about any tool that makes sense to keep in touch and build relationships with colleagues, community members, and documentarians near and far.
 
 :pushpin:  Manage knowledge, collaborate for the greater good, and share ideas.  
 
@@ -40,7 +40,7 @@ My professional work experience is on [LinkedIn](https://www.linkedin.com/in/bar
 
 ### Where I live 
 
-A remote worker since 2007, I mostly work from my home office in southeast Florida. 
+A remote worker since 2007, I mostly work from my home office in southeast Florida, USA. 
 
 ### My favorite quote 
 
