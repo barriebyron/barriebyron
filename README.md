@@ -14,9 +14,9 @@ My specialty is presenting complex ideas in ways that are clear and concise. My 
 
 :label:  Use well-defined GitHub issues and discussions to collaborate, plan, track, and trigger documentation and content strategy tasks.
 
-:sparkle:  Always strive to improve products and processes. Share widely, like this handy collection of online [technical writing style guides](https://docs.google.com/document/d/1wAVt65UpgBJ4e_tzPCVnPHwOqYYtENuRkojDSq-7nK0/edit?usp=sharing).
+:sparkle:  Always strive to improve products and processes. Share widely, like this handy collection of online [technical writing style guides](https://github.com/barriebyron/techcomm/blob/main/styleguide/style-guide-collection.md).
 
-:wave:  Use Slack, Telegram, LinkedIn, Twitter, Discord, and just about any tool that makes sense to keep in touch and build relationships with colleagues, community members, and documentarians near and far.
+:wave:  Use Slack, Telegram, LinkedIn, Twitter, Discord, Signal, and just about any tool that makes sense to keep in touch and build relationships with colleagues, community members, and documentarians near and far.
 
 :pushpin:  Manage knowledge, collaborate for the greater good, and share ideas.  
 
@@ -28,7 +28,7 @@ My specialty is presenting complex ideas in ways that are clear and concise. My 
 
 :bulb:  Learn something new every day. 
 
-:tomato:  Grow and cook healthy food. I love my Instant Pot. I don't play favorites, I love both of my Instant Pots. 
+:tomato:  Grow and cook healthy food. I love my Instant Pot. I don't play favorites, I love all three of my Instant Pots. I grow herbs and salad greens in my Tower Garden all year round.
 
 :four_leaf_clover:  Tend my garden of perennial optimism.
 
